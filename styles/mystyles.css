@@ -1,0 +1,39 @@
+.html,body{
+    background-color: rgb(175, 189, 153);
+
+}
+
+h2.post-title{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-top: 200px;
+    color: chocolate;
+    font-weight: 200;
+    
+}
+
+h1{
+    color: chocolate;
+}
+
+span{
+    color: chocolate
+}
+
+h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: beige
+
+
+}
+footer{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.ftcolor{
+    color: black;
+}

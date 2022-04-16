@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a{
+    color: white;
+}
+
+h8{
+    color:white
+}
+
+footer{
+    color: white;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.adam{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.changing{
+    color: forestgreen;
+    text-decoration:double
+}
+
+header{
+    padding-left: 10px;
+    padding-right: 10px;
+}
